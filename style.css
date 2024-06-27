@@ -1,0 +1,33 @@
+.box{
+width: 1200px;
+margin: 0 auto;
+padding: 60px 15px;
+}
+body{
+background-color: lightgrey;
+}
+.title{
+color: #212121;
+text-align: center;
+}
+img{
+display: block;
+margin: 0 auto;
+height: 600px;
+}
+.question{
+color: white;
+background-color: orangered;
+width: 100px;
+border-radius: 10px;
+}
+.answer{
+color: white;
+background-color: green;
+width: 50px;
+}
+.answernumbertwo{
+color: white;
+background-color: rgb(65, 0, 0);
+width: 50px;
+}
